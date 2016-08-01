@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fstream": "~0.1.21",
+    "fstream": "1.0.10",
     "pullstream": "~0.4.0",
     "binary": "~0.3.0",
     "readable-stream": "~1.0.0",
@@ -20,7 +20,7 @@
     "match-stream": "~0.0.2"
   },
   "devDependencies": {
-    "tap": "~0.3.0",
+    "tap": "6.3.0",
     "temp": "~0.4.0",
     "dirdiff": "~0.0.1",
     "stream-buffers": "~0.2.3"
